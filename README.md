@@ -12,7 +12,7 @@
 - 可调参数：`temperature`、`top_p`、`max_tokens` 等  
 
 ---
-
+```bash
 ## 项目结构
 
 
@@ -21,7 +21,7 @@
 ├── frontend.py # Gradio 前端界面
 ├── README.md
 └── requirements.txt # 项目依赖
-
+```
 
 ---
 
